@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+torch
+transformers
+sentence-transformers
+faiss-cpu
+datasets
+accelerate
+imblearn
