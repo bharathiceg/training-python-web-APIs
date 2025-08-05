@@ -1,0 +1,24 @@
+SQL Server Bench installed in my computer 
+          What is SQL?WHY?
+          combinations of keywords, tablenames, column names etc 
+          we need semicolon at the end 
+          write all the keywords in the uppercase is the best practice
+          string has to written in ''
+          CREATE DATABASE test;
+          DROP DATABASE test;
+          go to schemas and find database
+          USE record_compony;
+          CREATE TABLE test(
+          test_col INT
+          test_name  VARCHAR(255) NOT NULL,
+          id INT NOT NULL AUTO_INCREMENT
+          ALTER TABLE test
+          ADD another_column VARCHAR(255);
+          DROP TABLE test;
+          PRIMARY KEY(id)
+          
+          );
+          PRIMARY KEY--> identifies the            primary column
+          FOREIGN key--->refers to the foreign table
+		    INSERT INTO "TABLENAME(name......coumn names except autoincrement columns ) VALUES()
+           INDEX 
